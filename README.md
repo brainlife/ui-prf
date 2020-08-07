@@ -2,6 +2,8 @@
 
 HTML5/threejs based PRF Surface Viewer. It takes series of VTK files converted from freesurfer surface data (/surf) and pRF output .nii.gz
 
+[Demo at brainlife.io](https://brainlife.io/ui/prfview/) | [brainlife.io DOI](https://doi.org/10.25663/brainlife.ui.2)
+
 ### Authors
 - [Soichi Hayashi](hayashis@iu.edu)
 - [David Hunt](davhunt@iu.edu)
