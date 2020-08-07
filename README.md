@@ -4,6 +4,7 @@ HTML5/threejs based PRF Surface Viewer. It takes series of VTK files converted f
 
 ### Authors
 - [Soichi Hayashi](hayashis@iu.edu)
+- [David Hunt](davhunt@iu.edu)
 
 ### Project Director
 - [Franco Pestilli](frakkopesto@gmail.com)
