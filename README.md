@@ -44,6 +44,15 @@ brainlife.io serves the built files under `/ui/` and passes the dataset location
 
 [ui-niivue](https://github.com/brainlife/ui-niivue) (current in-browser viewer) · [abcd-novnc](https://github.com/brainlife/abcd-novnc) (desktop viewer launcher) · [warehouse-next](https://github.com/brainlife/warehouse-next) (datatypes and their viewers)
 
+<details>
+<summary><b>📜 Previous README (technical details)</b></summary>
+
+HTML5/threejs based PRF Surface Viewer. It takes series of VTK files converted from freesurfer surface data (/surf) and pRF output .nii.gz
+
+[Demo at brainlife.io](https://brainlife.io/ui/prfview/) | [brainlife.io DOI](https://doi.org/10.25663/brainlife.ui.2)
+
+</details>
+
 ## 📚 Citing
 
 If you use brainlife.io in your work, please cite:
